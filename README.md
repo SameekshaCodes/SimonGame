@@ -5,8 +5,7 @@ A fun memory challenge where you follow and repeat an ever-growing pattern of li
 
 ## 🚀 Live Demo
 
-[Play Now]
-
+[Play Now](https://sameekshacodes.github.io/SimonGame/)
 ## 🛠 Tech Used
 
 * HTML
